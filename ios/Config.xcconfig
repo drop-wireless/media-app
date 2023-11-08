@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  Drop Media
+//
+//  Created by Jason Goldman on 1/16/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include? "tmp.xcconfig"
